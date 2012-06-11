@@ -3,10 +3,10 @@ RIM-COD-Module-Name: HelloWorld
 RIM-COD-Module-Dependencies: net_rim_cldc
 MIDlet-Jar-Size: 14763
 MIDlet-1: ,img/icon.png,
-RIM-COD-Creation-Time: 1339262916
+RIM-COD-Creation-Time: 1339428806
 MIDlet-Jar-URL: HelloWorld.jar
 RIM-COD-URL: HelloWorld.cod
-RIM-COD-SHA1: 71 fb 8d 9d e9 d4 3c cc 26 42 1b 99 6c a8 b3 74 53 67 84 d7
+RIM-COD-SHA1: 0f 53 02 7c 3d d0 84 5c 23 e7 f4 22 c4 ea bb 79 c6 f6 5c 3b
 RIM-COD-Size: 8472
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Version: 1.0.0
